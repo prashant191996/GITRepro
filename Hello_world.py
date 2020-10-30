@@ -3,3 +3,4 @@ y=23
 print(x+y)
 print("Hello World!")
 print(y-x)
+print(x*y)
